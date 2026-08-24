@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Bot24/7",
   "bot-account": {
-    "username": "Bot",
+    "username": "Bot24/7 (Piero)",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "mattyvitt.aternos.me",
-    "port": 35007,
+    "ip": "SosticeMC.aternos.me",
+    "port": 41807,
     "version": "1.21.1"
   },
   "position": {
@@ -26,8 +26,8 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 500,
       "messages": [
         ".",
