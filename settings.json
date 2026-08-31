@@ -1,13 +1,13 @@
 {
-  "name": "Bot",
+  "name": "Pierino",
   "bot-account": {
-    "username": "Bot",
+    "username": "Pierino",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "SosticeMC.aternos.me",
-    "port": 41807,
+    "ip": "Ghost_MC-QrvV.aternos.me",
+    "port": 24024,
     "version": "1.21.1"
   },
   "position": {
